@@ -1,7 +1,10 @@
-## 👨‍💻 💁‍♂️ 🚧
+## 👨‍💻 🤷‍♂️ 😴
 
+Hi, I'm Shubham, I write code sometimes.
 
+Here is my favourite GIF, enjoy. 
 
+![Alt Text](https://media.giphy.com/media/kHU8W94VS329y/giphy.gif)
 
 <!--
 **19shubham11/19shubham11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
